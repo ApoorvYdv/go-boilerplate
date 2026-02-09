@@ -84,6 +84,8 @@ github.com/newrelic/go-agent/v3/integrations/logcontext-v2/zerologWriter v1.0.4 
 github.com/newrelic/go-agent/v3/integrations/logcontext-v2/zerologWriter v1.0.4/go.mod h1:CTjlZ5aTOzuZs2kcNntm1/FhLLbAimhZQCRYzadBuhA=
 github.com/newrelic/go-agent/v3/integrations/nrpgx5 v1.3.3 h1:nS83Ey9GokcC9Ty6JtV/K3aEg698jMOnwEGqeVopB28=
 github.com/newrelic/go-agent/v3/integrations/nrpgx5 v1.3.3/go.mod h1:CPyyLdH0scKT3XPPdbOWpER4jT6XhrMsTtd7jjTAagA=
+github.com/newrelic/go-agent/v3/integrations/nrredis-v9 v1.1.2 h1:Yi8MH7fw8RqfILmGSc4yf0AysoNrlHdihJPMqfpT8xY=
+github.com/newrelic/go-agent/v3/integrations/nrredis-v9 v1.1.2/go.mod h1:8YQCdVir0v8y+Ovc7Oi/hwakevRAuymDNj806kjSE/k=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
